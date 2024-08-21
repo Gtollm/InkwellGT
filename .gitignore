@@ -31,4 +31,4 @@ __pycache__/
 dogebutton.css
 dogebutton.min.css
 dogebutton.js
-
+.DS_Store
