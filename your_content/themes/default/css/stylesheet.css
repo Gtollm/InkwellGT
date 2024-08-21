@@ -26,7 +26,7 @@ div#container {
 }
 
 div#links-bar {
-    background-color: indianred;  /* The background color of your links bar */
+    background-color: royalblue;  /* The background color of your links bar */
 }
 
 a.link-bar-link {
@@ -40,7 +40,7 @@ a.link-bar-link:hover {
 }
 
 a.navigation-button {
-    color: maroon;  /* Color of the navigation bar hyperlinks */
+    color: cornflowerblue;  /* Color of the navigation bar hyperlinks */
     font-size: 2em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
 }
@@ -70,3 +70,4 @@ div#post-date {
 div#storyline, div#characters, div#tags {
     font-style: italic;  /* Delete this to unitalicize the tags */
 }
+

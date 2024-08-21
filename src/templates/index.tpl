@@ -8,3 +8,4 @@
 {{ home_page_text|safe }}
 
 {%- endblock %}
+
