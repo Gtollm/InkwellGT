@@ -8,5 +8,5 @@
 
 <p>В данный момент занимаюсь переводом серии </p> <a href = "https://workchronicles.substack.com">Work Chronicles</a>
 
-<p>"Я работаю независимо, в свободное от работы время, если Вам нравится мой труд, можете поддержать меня с помощью кнопки ниже)"</p> 
+<p>Я перевожу независимо, в свободное от работы время, если Вам нравится мой труд, можете поддержать меня с помощью кнопки ниже)</p> 
 <a href="https://coindrop.to/gtollm" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></img></a>
